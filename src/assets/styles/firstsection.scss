@@ -1,0 +1,26 @@
+.FirstSection{
+    width: 80%;
+    margin: auto;
+    padding-top: 12%;
+}
+.bannerImg{
+    width: 70%;
+    margin-top: -5%;
+    margin-left: 10%;
+    opacity: 1; 
+    z-index: 12;
+    position: relative;
+}
+.bigtext{
+    color: 	#002147;
+    font-size: 44px;
+    width: 100%;
+    letter-spacing: 1px;
+    font-weight: 600;
+}
+.smalltext{
+    font-size: 16px;
+    color: #c4c4c4;
+    // opacity: 0.7;
+    width: 70%
+}
